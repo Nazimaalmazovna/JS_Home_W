@@ -6,6 +6,7 @@ const person = {
     city: "Бишкек"
 };
 
+
 console.log(person);
 
 //? Задача №2
